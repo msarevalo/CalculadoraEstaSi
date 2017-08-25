@@ -3,14 +3,7 @@ package co.unbosque.isii.calculadora_pruebas;
 import java.awt.Image;
 import java.util.Scanner;
 
-<<<<<<< HEAD:src/main/java/co/unbosque/isii/calculadora_pruebas/PrincipalPrueba.java
 public class PrincipalPrueba {
-=======
-import javax.swing.ImageIcon;
-
-public class Principal {
->>>>>>> 270dd44ff7b5a637f5362faf137f3e4f9bcb0c42:src/main/java/co/unbosque/isii/calculadora_pruebas/Principal.java
-
 	public static void main(String[] args) throws ComandoNoEncontradoException {
 		// TODO Auto-generated method stub
 
@@ -21,12 +14,9 @@ public class Principal {
 
 		System.out.println("Escriba EXIT para salir");
 		while (respuesta == 0) {
-<<<<<<< HEAD:src/main/java/co/unbosque/isii/calculadora_pruebas/PrincipalPrueba.java
 			//try {
-=======
 			try {
 				//contador=1;
->>>>>>> 270dd44ff7b5a637f5362faf137f3e4f9bcb0c42:src/main/java/co/unbosque/isii/calculadora_pruebas/Principal.java
 				System.out.println("Escriba la operacion a realizar");
 				cadena = teclado.nextLine();
 
@@ -41,12 +31,11 @@ public class Principal {
 						
 					}
 				}
-<<<<<<< HEAD:src/main/java/co/unbosque/isii/calculadora_pruebas/PrincipalPrueba.java
 			/*} catch (Exception e) {
 				System.out.println(e);
 				System.out.println("Oh Oh algo ha sucedido, intenta de nuevo\n");
 			}*/
-=======
+
 			} catch (Exception e) {
 				switch (contador) {
 				case 1:
@@ -71,7 +60,6 @@ public class Principal {
 				}
 				
 			}
->>>>>>> 270dd44ff7b5a637f5362faf137f3e4f9bcb0c42:src/main/java/co/unbosque/isii/calculadora_pruebas/Principal.java
 		}
 
 		teclado.close();
