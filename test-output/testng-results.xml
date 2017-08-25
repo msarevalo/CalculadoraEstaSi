@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="47" started-at="2017-08-18T01:42:22Z" finished-at="2017-08-18T01:42:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="47" started-at="2017-08-18T01:42:22Z" finished-at="2017-08-18T01:42:22Z">
+      <class name="co.unbosque.isii.calculadora_pruebas.NewTest">
+        <test-method status="PASS" signature="debeDividirCorrectamente()[pri:0, instance:co.unbosque.isii.calculadora_pruebas.NewTest@6d78f375]" name="debeDividirCorrectamente" duration-ms="7" started-at="2017-08-17T20:42:22Z" finished-at="2017-08-17T20:42:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- debeDividirCorrectamente -->
+        <test-method status="PASS" signature="debeMultiplicarCorrectamente()[pri:0, instance:co.unbosque.isii.calculadora_pruebas.NewTest@6d78f375]" name="debeMultiplicarCorrectamente" duration-ms="1" started-at="2017-08-17T20:42:22Z" finished-at="2017-08-17T20:42:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- debeMultiplicarCorrectamente -->
+        <test-method status="PASS" signature="debeRestarCorrectamente()[pri:0, instance:co.unbosque.isii.calculadora_pruebas.NewTest@6d78f375]" name="debeRestarCorrectamente" duration-ms="1" started-at="2017-08-17T20:42:22Z" finished-at="2017-08-17T20:42:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- debeRestarCorrectamente -->
+        <test-method status="PASS" signature="debeSacarCosenoCorrectamente()[pri:0, instance:co.unbosque.isii.calculadora_pruebas.NewTest@6d78f375]" name="debeSacarCosenoCorrectamente" duration-ms="1" started-at="2017-08-17T20:42:22Z" finished-at="2017-08-17T20:42:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- debeSacarCosenoCorrectamente -->
+        <test-method status="PASS" signature="debeSumarCorrectamente()[pri:0, instance:co.unbosque.isii.calculadora_pruebas.NewTest@6d78f375]" name="debeSumarCorrectamente" duration-ms="1" started-at="2017-08-17T20:42:22Z" finished-at="2017-08-17T20:42:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- debeSumarCorrectamente -->
+        <test-method status="PASS" signature="laOperacionCoseno()[pri:0, instance:co.unbosque.isii.calculadora_pruebas.NewTest@6d78f375]" name="laOperacionCoseno" duration-ms="1" started-at="2017-08-17T20:42:22Z" finished-at="2017-08-17T20:42:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- laOperacionCoseno -->
+        <test-method status="PASS" signature="laOperacionDivisionExiste()[pri:0, instance:co.unbosque.isii.calculadora_pruebas.NewTest@6d78f375]" name="laOperacionDivisionExiste" duration-ms="1" started-at="2017-08-17T20:42:22Z" finished-at="2017-08-17T20:42:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- laOperacionDivisionExiste -->
+        <test-method status="PASS" signature="laOperacionMultiplicacionExiste()[pri:0, instance:co.unbosque.isii.calculadora_pruebas.NewTest@6d78f375]" name="laOperacionMultiplicacionExiste" duration-ms="1" started-at="2017-08-17T20:42:22Z" finished-at="2017-08-17T20:42:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- laOperacionMultiplicacionExiste -->
+        <test-method status="PASS" signature="laOperacionRestaExiste()[pri:0, instance:co.unbosque.isii.calculadora_pruebas.NewTest@6d78f375]" name="laOperacionRestaExiste" duration-ms="1" started-at="2017-08-17T20:42:22Z" finished-at="2017-08-17T20:42:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- laOperacionRestaExiste -->
+        <test-method status="PASS" signature="laOperacionSumaExiste()[pri:0, instance:co.unbosque.isii.calculadora_pruebas.NewTest@6d78f375]" name="laOperacionSumaExiste" duration-ms="1" started-at="2017-08-17T20:42:22Z" finished-at="2017-08-17T20:42:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- laOperacionSumaExiste -->
+        <test-method status="PASS" signature="laSeparacionDeNumerosExiste()[pri:0, instance:co.unbosque.isii.calculadora_pruebas.NewTest@6d78f375]" name="laSeparacionDeNumerosExiste" duration-ms="2" started-at="2017-08-17T20:42:22Z" finished-at="2017-08-17T20:42:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- laSeparacionDeNumerosExiste -->
+        <test-method status="PASS" signature="laSeparacionDeOperadoresExiste()[pri:0, instance:co.unbosque.isii.calculadora_pruebas.NewTest@6d78f375]" name="laSeparacionDeOperadoresExiste" duration-ms="1" started-at="2017-08-17T20:42:22Z" finished-at="2017-08-17T20:42:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- laSeparacionDeOperadoresExiste -->
+      </class> <!-- co.unbosque.isii.calculadora_pruebas.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
